@@ -24,10 +24,17 @@ Deberás pocicionarte en la carpeta donde desas clonar el repositorio y estando 
 git clone https://github.com/Fernand117/fcry.git
 ```
 
-###### INSTALANDO LIBRERÍAS ADICIONALES PARA LA VERSIÓN 02
-Para correr la versión 02 de este script es necesaria la instalación de la siguiente librería
+###### INSTALANDO LIBRERÍAS ADICIONALES
+Para correr este script es necesaria la instalación de las siguientes librerías
+
+Cryptography
 ```
 python3 -m pip install cryptography
+```
+
+Colorama
+```
+python3 -m pip install colorama
 ```
 
 ###### EJECUCIÓN
