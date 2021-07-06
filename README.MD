@@ -60,8 +60,6 @@ Este "ransomware" ataca directamente a la carpeta raíz del usuario ya sea que s
 Este script es creado con fines educativos, el uso mal intencionado que se le pueda dar a este script no es mi responsabilidad, por tanto, la persona que haga mal uso de este, será el responsable directo por su ejecución.
 
 <p>Es importante recalcar que no se debe ejecutar en un sistema operativo funcional ya que podría dañar sus archivos y a pesar de que se pueden desencryptar los archivos con la KEY que se genera, este script no incluye la función que permite realizar dicha acción ;).</p>
-<p>Puedes modificar la función que crea el archivo READMEH.txt para ponerle lo que quieras</p>
-<p>Puedes realizar modificaciones al código, sobre todo en la parte de los directorios.</p>
 
 ## GRACIAS
 <p>Creado por Luis Fernando Leyva Luna</p>
